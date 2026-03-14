@@ -25,7 +25,7 @@
 - 🦫 **[CodeCapybara](https://github.com/FSoft-AI4Code/CodeCapybara)** - Open-source self-instruction tuning Code LLM (171 ⭐)
 - 🖥️ **[XMainframe](https://github.com/FSoft-AI4Code/XMainframe)** - Language model for mainframe modernization (COBOL → modern code) (68 ⭐)
 
-### Research & Code Representation
+### (Old Research)
 
 - 🧠 **[InferCode](https://github.com/bdqnghi/infercode)** - Self-supervised learning of code representations (89 ⭐)
 - 🌳 **[AST Node Encoding](https://github.com/bdqnghi/ast-node-encoding)** - AST node vector embeddings for source code
