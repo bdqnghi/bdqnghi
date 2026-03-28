@@ -11,7 +11,7 @@
 ![Tree-sitter](https://img.shields.io/badge/-Tree--sitter-339933?style=flat-square&logo=treehouse&logoColor=white)
 ![GNNs](https://img.shields.io/badge/-GNNs-FF6F61?style=flat-square)
 
-> Building intelligent coding agents and pushing the boundaries of AI for software engineering — from code representation learning to multi-agent systems that write real-world software.
+> Building intelligent coding agents and pushing the boundaries of AI for software engineering — from LLMs post-training to multi-agent systems that write real-world software.
 
 ## Featured R&D Projects
 
