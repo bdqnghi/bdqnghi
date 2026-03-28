@@ -15,7 +15,7 @@
 
 ## Featured R&D Projects
 
-- 🏗️ **[OpenDev](https://github.com/opendev-to/opendev)** - Open-source Coding Agent for the Terminal
+- 🏗️ **[OpenDev](https://github.com/opendev-to/opendev)** - Open-source Coding Agent for the Terminal (470+ ⭐)
 - 🧬 **[SWE-EVO](https://github.com/SWE-EVO/SWE-EVO)** - Evolving software engineering with AI agents
 - 🔧 **[CodeTF](https://github.com/salesforce/CodeTF)** - One-stop Transformer library for state-of-the-art Code LLMs (1.5k+ ⭐)
 - 🚀 **[CodeT5](https://github.com/salesforce/CodeT5)** - Open Code LLMs for code understanding and generation (3k+ ⭐)
