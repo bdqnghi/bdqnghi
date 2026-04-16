@@ -1,6 +1,6 @@
 # Hi, I'm Nghi 👋
 
-📍 **USA** | 🤖 **Googler** | 🧠 **AI Research Scientist** | 🎱 **Focusing**
+📍 **USA** | 🤖 **Googler** | 🧠 **AI Research Scientist** |
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
