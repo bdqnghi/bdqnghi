@@ -19,9 +19,10 @@
 - 🧬 **[SWE-EVO](https://github.com/SWE-EVO/SWE-EVO)** - A Challenging Benchmark for Coding Agents in the Software Evolution Scenarios
 - 🔧 **[CodeTF](https://github.com/salesforce/CodeTF)** - One-stop Transformer library for state-of-the-art Code LLMs (1.5k+ ⭐)
 - 🚀 **[CodeT5](https://github.com/salesforce/CodeT5)** - Open Code LLMs for code understanding and generation (3k+ ⭐)
+- 📚 **[CodeWiki](https://github.com/CodeWiki-AI/CodeWiki)** - Open-source DeepWiki: holistic repo-level documentation across multilingual codebases (760+ ⭐)
+- 📚 **[TheVault](https://github.com/TheVault-Dataset/TheVault)** - Open-source Code-Comment Dataset or Instruction Tuning (109+ ⭐)
 - 🕵️ **[HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent)** - Generalist software agents to solve software engineering tasks (235 ⭐)
 - 👥 **[AgileCoder](https://github.com/FSoft-AI4Code/AgileCoder)** - Agile methodology meets multi-agent systems for building real-world software (451 ⭐)
-- 📚 **[CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki)** - Open-source DeepWiki: holistic repo-level documentation across multilingual codebases (760+ ⭐)
 - 🦫 **[CodeCapybara](https://github.com/FSoft-AI4Code/CodeCapybara)** - Open-source self-instruction tuning Code LLM (171 ⭐)
 - 🖥️ **[XMainframe](https://github.com/FSoft-AI4Code/XMainframe)** - Language model for mainframe modernization (COBOL → modern code) (68 ⭐)
 
