@@ -17,7 +17,7 @@
 
 - 🏗️ **[OpenDev](https://github.com/opendev-to/opendev)** - Open-source Coding Agent for the Terminal (470+ ⭐)
 - 🧬 **[SWE-EVO](https://github.com/SWE-EVO/SWE-EVO)** - A Challenging Benchmark for Coding Agents in the Software Evolution Scenarios
-- 📚 **[CodeWiki](https://github.com/CodeWiki-AI/CodeWiki)** - Open-source DeepWiki: holistic repo-level documentation across multilingual codebases (760+ ⭐)
+- 📚 **[CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki)** - Open-source DeepWiki: holistic repo-level documentation across multilingual codebases (760+ ⭐)
 - 📚 **[TheVault](https://github.com/TheVault-Dataset/TheVault)** - Open-source Code-Comment Dataset or Instruction Tuning (109+ ⭐)
 - 🕵️ **[HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent)** - Generalist software agents to solve software engineering tasks (235 ⭐)
 - 👥 **[AgileCoder](https://github.com/FSoft-AI4Code/AgileCoder)** - Agile methodology meets multi-agent systems for building real-world software (451 ⭐)
