@@ -24,7 +24,7 @@
 - 🦫 **[CodeCapybara](https://github.com/FSoft-AI4Code/CodeCapybara)** - Open-source self-instruction tuning Code LLM (174 ⭐)
 - 📚 **[TheVault](https://github.com/TheVault-Dataset/TheVault)** - Open-source Code-Comment Dataset or Instruction Tuning (105 ⭐)
 - 🖥️ **[XMainframe](https://github.com/FSoft-AI4Code/XMainframe)** - Language model for mainframe modernization (COBOL → modern code) (74 ⭐)
-- 🧬 **[SWE-EVO](https://github.com/SWE-EVO/SWE-EVO)** - A Challenging Benchmark for Coding Agents in the Software Evolution Scenarios (61 ⭐)
+- 🧬 **[SWE-EVO](https://github.com/SWE-EVO/SWE-EVO)** - A Challenging Benchmark for Coding Agents in Long-Horizon Software Evolution Scenarios (61 ⭐)
 - 
 ### (Old Research)
 
