@@ -15,25 +15,25 @@
 
 ## Featured R&D Projects
 
-- 🏗️ **[OpenDev](https://github.com/opendev-to/opendev)** - Open-source Coding Agent for the Terminal (550+ ⭐)
-- 🧬 **[SWE-EVO](https://github.com/SWE-EVO/SWE-EVO)** - A Challenging Benchmark for Coding Agents in the Software Evolution Scenarios (45+ ⭐)
-- 📚 **[CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki)** - Open-source DeepWiki: holistic repo-level documentation across multilingual codebases (915+ ⭐)
-- 📚 **[TheVault](https://github.com/TheVault-Dataset/TheVault)** - Open-source Code-Comment Dataset or Instruction Tuning (109+ ⭐)
-- 🕵️ **[HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent)** - Generalist software agents to solve software engineering tasks (235 ⭐)
-- 👥 **[AgileCoder](https://github.com/FSoft-AI4Code/AgileCoder)** - Agile methodology meets multi-agent systems for building real-world software (451 ⭐)
-- 🦫 **[CodeCapybara](https://github.com/FSoft-AI4Code/CodeCapybara)** - Open-source self-instruction tuning Code LLM (171 ⭐)
-- 🖥️ **[XMainframe](https://github.com/FSoft-AI4Code/XMainframe)** - Language model for mainframe modernization (COBOL → modern code) (68 ⭐)
-- 🔧 **[CodeTF](https://github.com/salesforce/CodeTF)** - One-stop Transformer library for state-of-the-art Code LLMs (1.5k+ ⭐)
+- 🏗️ **[OpenDev](https://github.com/opendev-to/opendev)** - Open-source Coding Agent for the Terminal (851 ⭐)
+- 🧬 **[SWE-EVO](https://github.com/SWE-EVO/SWE-EVO)** - A Challenging Benchmark for Coding Agents in the Software Evolution Scenarios (61 ⭐)
+- 📚 **[CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki)** - Open-source DeepWiki: holistic repo-level documentation across multilingual codebases (1.8k+ ⭐)
+- 📚 **[TheVault](https://github.com/TheVault-Dataset/TheVault)** - Open-source Code-Comment Dataset or Instruction Tuning (105 ⭐)
+- 🕵️ **[HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent)** - Generalist software agents to solve software engineering tasks (257 ⭐)
+- 👥 **[AgileCoder](https://github.com/FSoft-AI4Code/AgileCoder)** - Agile methodology meets multi-agent systems for building real-world software (465 ⭐)
+- 🦫 **[CodeCapybara](https://github.com/FSoft-AI4Code/CodeCapybara)** - Open-source self-instruction tuning Code LLM (174 ⭐)
+- 🖥️ **[XMainframe](https://github.com/FSoft-AI4Code/XMainframe)** - Language model for mainframe modernization (COBOL → modern code) (74 ⭐)
+- 🔧 **[CodeTF](https://github.com/salesforce/CodeTF)** - One-stop Transformer library for state-of-the-art Code LLMs (1.4k+ ⭐)
 - 🚀 **[CodeT5](https://github.com/salesforce/CodeT5)** - Open Code LLMs for code understanding and generation (3k+ ⭐)
 - 
 ### (Old Research)
 
-- 🧠 **[InferCode](https://github.com/bdqnghi/infercode)** - Self-supervised learning of code representations (89 ⭐)
-- 🌳 **[AST Node Encoding](https://github.com/bdqnghi/ast-node-encoding)** - AST node vector embeddings for source code
-- 🔀 **[Bi-TBCNN](https://github.com/bdqnghi/bi-tbcnn)** - Bilateral tree-based convolutional neural network for code
-- 📊 **[Graph-AST](https://github.com/bdqnghi/graph-ast)** - Graph representations of source code
-- 🔗 **[GGNN.TensorFlow](https://github.com/bdqnghi/ggnn.tensorflow)** - Gated graph neural networks for code classification
-- 📖 **[Awesome AI4Code](https://github.com/bdqnghi/awesome-ai4code)** - Curated list of AI4Code papers and datasets
+- 🧠 **[InferCode](https://github.com/bdqnghi/infercode)** - Self-supervised learning of code representations (92 ⭐)
+- 🌳 **[AST Node Encoding](https://github.com/bdqnghi/ast-node-encoding)** - AST node vector embeddings for source code (78 ⭐)
+- 🔀 **[Bi-TBCNN](https://github.com/bdqnghi/bi-tbcnn)** - Bilateral tree-based convolutional neural network for code (53 ⭐)
+- 📊 **[Graph-AST](https://github.com/bdqnghi/graph-ast)** - Graph representations of source code (51 ⭐)
+- 🔗 **[GGNN.TensorFlow](https://github.com/bdqnghi/ggnn.tensorflow)** - Gated graph neural networks for code classification (42 ⭐)
+- 📖 **[Awesome AI4Code](https://github.com/bdqnghi/awesome-ai4code)** - Curated list of AI4Code papers and datasets (61 ⭐)
 
 ## GitHub Activity
 
