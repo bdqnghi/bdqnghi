@@ -13,6 +13,12 @@
 
 > Building intelligent coding agents and pushing the boundaries of AI for software engineering — from LLMs post-training to multi-agent systems that write real-world software.
 
+## Blog Posts
+
+- 🧭 **[Situationally Aware Agents](https://labs.google/code/experiments/situationally-aware-agents)** - Google Labs
+- 📏 **[Measuring What Matters with Jules](https://developers.googleblog.com/measuring-what-matters-with-jules/)** - Google Developers Blog
+- 🚀 **[CodeT5+: Open Code Large Language Models](https://www.salesforce.com/blog/codet5-open-code-large-language-models/)** - Salesforce AI Research Blog
+
 ## Featured R&D Projects
 
 - 🚀 **[CodeT5](https://github.com/salesforce/CodeT5)** - Open Code LLMs for code understanding and generation (3k+ ⭐)
